@@ -1,4 +1,4 @@
-class Products {
+class Remedy {
   String RemedyName;
   String information;
   String Remedydescription;
@@ -7,7 +7,7 @@ class Products {
   int? grams;
   
 
-  Products({
+  Remedy({
     required this.RemedyName,
     required this.information,
     required this.Remedydescription,
